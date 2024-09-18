@@ -80,6 +80,7 @@ endmodule
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
  Developed by: NAVEEN KUMAR B
+ 
  RegisterNumber: 212222230091
  
 **Logic symbol & Truthtable**
